@@ -944,7 +944,7 @@
     "fileHash": "sha256-7f8381ea83c649123f0d63b4b529b6a813804cfdba00680f5d7aedc2bc79e609"
   },
   {
-  "url": "https://raw.githubusercontent.com/firtinanobeti/SafakStream/builds/SafakSpor.cs3",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SafakSpor.cs3",
   "status": 3,
   "version": 1,
   "name": "SafakSpor",
@@ -954,7 +954,7 @@
   ],
   "description": "🟢 Canlı Spor ve TV Kanalları · SafakStream Özel Sürüm · WARP gerekebilir.",
   "fileSize": 212112,
-  "repositoryUrl": "https://github.com/firtinanobeti/SafakStream",
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
   "language": "tr",
   "tvTypes": [
     "Live"
