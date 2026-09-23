@@ -506,27 +506,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/SelcukSports.png",
     "apiVersion": 1
-  },
-  {
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/AslanTV.cs3",
-    "status": 3,
-    "version": 13,
-    "name": "Aslan TV • SafakStream",
-    "internalName": "AslanTV",
-    "authors": [
-      "SafakStream"
-    ],
-    "description": "🟢 Kaynak: Aslan TV · Mod: SafakStream · WARP gerekebilir.",
-    "fileSize": 179322,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/AslanTV.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-e25514a9554a577102c40acffe82b602383590faf9ec61fb74f59313786ae2e0"
-  },
+  }
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CinemaCity.cs3",
     "status": 1,
