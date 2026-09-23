@@ -1,496 +1,496 @@
 [
-    {
-    "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/belgeselx.png",
+  {
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/belgeselx.png",
     "fileHash": "sha256-b929c7543a85f9d1111c81387c5dbc807b01b9b2ef796b127096db9ad7af0a57",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
     "fileSize": 30805,
     "status": 1,
     "language": "tr",
     "authors": [
-        "SafakStream"
+      "SafakStream"
     ],
     "tvTypes": [
-        "Documentary"
+      "Documentary"
     ],
     "version": 18,
     "internalName": "BelgeselX",
     "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/BelgeselX.cs3",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/BelgeselX.cs3",
     "name": "BelgeselX"
-},
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-        "fileHash": "sha256-2e9cc154c26af5caba1554c515c355e96dab86683a5a1c4c215efb645448ab24",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 20425,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "Adippe",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 10,
-        "internalName": "CanliTV",
-        "description": "Canl\u0131 TV",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CanliTV.cs3",
-        "name": "CanliTV"
-    },
-    {
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
-        "fileHash": "sha256-02eac4d6ed073e09b6626b36b5525b1fdcfc45eeacd3b6c0a5404ec6974d075f",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 724001,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "megix"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "version": 481,
-        "internalName": "CineStream",
-        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CineStream.cs3",
-        "name": "CineStream"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size%",
-        "jarFileSize": 55930,
-        "fileHash": "sha256-617ed84d94dec35432fde9aff4759940707d2a95a0a51b785581cd4caf12fc45",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 13123,
-        "status": 1,
-        "authors": [
-            "Luna712"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 4,
-        "internalName": "DailymotionProvider",
-        "jarUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DailymotionProvider.jar",
-        "description": "Watch content from Dailymotion",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DailymotionProvider.cs3",
-        "name": "DailymotionProvider",
-        "jarHash": "sha256-38e23a1e452a3fc34c1a62009165162963f40698e587c6bb42f21963eb2c9c77"
-    },
-    {
-        "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
-        "fileHash": "sha256-254de2e85175416e339f5849f78c3801f3ce35b33bb222506a7d944aa78e5484",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 100612,
-        "status": 1,
-        "language": "all",
-        "authors": [
-            "redblacker8"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 31,
-        "internalName": "DeporTVProvider",
-        "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DeporTVProvider.cs3",
-        "name": "DeporTVProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
-        "fileHash": "sha256-96b96f2d8469f5057e7ae66d279000aab70f5a4ab12c405852aa8832bf8fbd77",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 22953,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 23,
-        "internalName": "DiziBox",
-        "description": "Yabanc\u0131 Dizi izle, T\u00fcm yabanc\u0131 dizilerin yeni ve eski sezonlar\u0131n\u0131 full hd izleyebilece\u011finiz elit site.",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DiziBox.cs3",
-        "name": "DiziBox"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/dizikorea.png",
-        "fileHash": "sha256-e437559423e7db3760ad4d25c06816bba5bf8478fbcd3c6bbc6bd481f02bc31f",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 23480,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 41,
-        "internalName": "DiziKorea",
-        "description": "En G\u00fcncel Kore Dizileri izleme Sitesi",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DiziKorea.cs3",
-        "name": "DiziKorea"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
-        "fileHash": "sha256-392a60315bd23c1239a4310443fb9fa9cc31ab6ed9ee6d73ecdf1ca9ef8e6136",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 36126,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 92,
-        "internalName": "Dizilla",
-        "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/Dizilla.cs3",
-        "name": "Dizilla"
-    },
-    {
-        "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-        "fileHash": "sha256-344ea5a34af4b34481634608bc28b88e636ddd60d8f09d1fc405f8d195a76963",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 17134,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 25,
-        "internalName": "DiziYou",
-        "description": "Diziyou en kaliteli T\u00fcrk\u00e7e dublaj ve altyaz\u0131l\u0131 yabanc\u0131 dizi izleme sitesidir. G\u00fcncel ve efsanevi dizileri 1080p Full HD kalitede izlemek i\u00e7in hemen t\u0131kla!",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DiziYou.cs3",
-        "name": "DiziYou"
-    },
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/HDFilmCehennemi.cs3",
-  "status": 1,
-  "version": 8,
-  "name": "HDFilmCehennemi",
-  "internalName": "HDFilmCehennemi",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "HDFilmCehennemi dizi, film ve anime sağlayıcısı.",
-  "fileSize": 87097,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Movie",
-    "TvSeries",
-    "Anime",
-    "Documentary"
-  ],
-  "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
-  "apiVersion": 1,
-  "fileHash": "sha256-31145dcfb0cd91fb9a77edf0cb059e94896883f8ec60ba356a672389c16b5b2a"
-},
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
-        "jarFileSize": 131745,
-        "fileHash": "sha256-ac3bc7ab9e1677046fe13bdd93e27aa7392248bf9b4384e2340d950622986181",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 29510,
-        "status": 1,
-        "authors": [
-            "Luna712"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "InternetArchiveProvider",
-        "jarUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/InternetArchiveProvider.jar",
-        "description": "Watch content from the Internet Archive at archive.org",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/InternetArchiveProvider.cs3",
-        "name": "InternetArchiveProvider",
-        "jarHash": "sha256-59bdbba75a7f18cf3ff23445aee04432aac44de790281e4811f0533670464624"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
-        "jarFileSize": 69249,
-        "fileHash": "sha256-337a4c11070d11392deb9b83831fed36c96533487ff80de0b4b123476539d302",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 15338,
-        "status": 1,
-        "authors": [
-            "Cloudburst"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 9,
-        "internalName": "InvidiousProvider",
-        "jarUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/InvidiousProvider.jar",
-        "description": "Watch content from any invidious instance",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/InvidiousProvider.cs3",
-        "name": "InvidiousProvider",
-        "jarHash": "sha256-553f4481cd18df463f91fe8a127e3bb37914915c121468b451cd2eb872790309"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
-        "fileHash": "sha256-f497e5f0e02f957c2a05e9cb1128e8d8b7205c70fe7a2b1bde8bbdbae2f5ded8",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 27316,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 16,
-        "internalName": "KultFilmler",
-        "description": "K\u00fclt Filmler \u00f6zenle en iyi filmleri derler ve iyi bir altyaz\u0131l\u0131 film izleme deneyimi sunmay\u0131 ama\u00e7lar",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/KultFilmler.cs3",
-        "name": "KultFilmler"
-    },
-    {
-        "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
-        "fileHash": "sha256-b896bf34121d9e374a0a8b6233dbb67a158b1fa2f43c7f35abde8a91ac20ed23",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 26929,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n",
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "version": 2,
-        "internalName": "Sinewix",
-        "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/Sinewix.cs3",
-        "name": "Sinewix"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
-        "fileHash": "sha256-15cc3545e15f217a1002feeeacac46f2e2cc59cf486b966b188608c1ad3bd2d8",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 1426362,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Italiani"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "AnimeMovie",
-            "Live"
-        ],
-        "version": 9,
-        "internalName": "StreamCenter",
-        "description": "Film, Serie TV, Anime e TV in un unico posto.",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/StreamCenter.cs3",
-        "name": "StreamCenter"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
-        "fileHash": "sha256-166a7c391b2f18870527cb998b0b291134d3035f51c6a49450bf3567d057f337",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 30925,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 29,
-        "internalName": "Streamed",
-        "description": "Streamed ile Canl\u0131 Spor Yay\u0131nlar\u0131n\u0131 \u0130zleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/Streamed.cs3",
-        "name": "Streamed"
-    },
-    {
-        "iconUrl": "https://streamingunity.dog/apple-touch-icon.png?v=2",
-        "fileHash": "sha256-05fa6bf2388af0ecfac1f16bbd069ad76612838d15f78fed373df4a51985f088",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 61770,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "doGior"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Documentary",
-            "Cartoon"
-        ],
-        "version": 33,
-        "internalName": "StreamingCommunity",
-        "description": "TV Shows and Movies from StreamingCommunity",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/StreamingCommunity.cs3",
-        "name": "StreamingCommunity"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
-        "fileHash": "sha256-7425d6b5ed9d8fe2d7b531ea1dc128b5e6e4c4ec63abb23fac4d5e90aef867ce",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 14078,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 19,
-        "internalName": "TLCtr",
-        "description": "TLC tr",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/TLCtr.cs3",
-        "name": "TLCtr"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
-        "fileHash": "sha256-9159bf4cbb5a9fdfd691b8b9a42f4bc9d748785e27d21d6e45a1bb9fea0181a6",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 15423,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "version": 65,
-        "internalName": "TRasyalog",
-        "description": "TRasyalog izleme sitesi.",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/TRasyalog.cs3",
-        "name": "TRasyalog"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/TV/television.png",
-        "fileHash": "sha256-dc5b1ee3e073ecf8cb4008833dbef1e4f24f30b4ed1c9bd5068a85a56b61c199",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 29468,
-        "status": 1,
-        "authors": [
-            "Gian-Fr",
-            "Adippe",
-            "doGior"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "TV",
-        "description": "Live streams from the Free TV github repository. Forked from the Free-TV plugin in the ItalianProvider repo",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/TV.cs3",
-        "name": "TV"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
-        "jarFileSize": 56926,
-        "fileHash": "sha256-ad7308f5f19b8a5cfbbde4a4046da6a3b5a1a32f11e6289211c7558e63d9a3c9",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 15021,
-        "status": 1,
-        "authors": [
-            "CranberrySoup"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "TwitchProvider",
-        "jarUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/TwitchProvider.jar",
-        "description": "Watch livestreams from Twitch",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/TwitchProvider.cs3",
-        "name": "TwitchProvider",
-        "jarHash": "sha256-63facb7c70f51365f95f5e3ef3871cd6a1804383b7ba8eabc1d78563ea6daad5"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
-        "fileHash": "sha256-19406ec27f7a573cded5a547253502f66c7f72c77b6bc96b54204c31df46ab9e",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 48553,
-        "status": 1,
-        "language": "tr",
-        "authors": [
-            "patr0n"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Movie",
-            "Anime",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "WebdramaTurkey2",
-        "description": "WebdramaTurkey2 \u0130\u00e7erikleri",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/WebdramaTurkey2.cs3",
-        "name": "WebdramaTurkey2"
-    },
-    {
-        "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
-        "fileHash": "sha256-38e13b0ed979f902baea710433543d88f275ec74620d1ec80eff5cc9c8d33408",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "fileSize": 41038,
-        "status": 1,
-        "authors": [
-            "doGior"
-        ],
-        "tvTypes": [
-            "Others"
-        ],
-        "version": 19,
-        "internalName": "YouTube",
-        "description": "Videos, playlists and channels from YouTube",
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/YouTube.cs3",
-        "name": "YouTube"
-    },
-    {
-    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/SelcukSports.cs3",
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
+    "fileHash": "sha256-2e9cc154c26af5caba1554c515c355e96dab86683a5a1c4c215efb645448ab24",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 20425,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "Adippe",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 10,
+    "internalName": "CanliTV",
+    "description": "Canlı TV",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CanliTV.cs3",
+    "name": "CanliTV"
+  },
+  {
+    "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
+    "fileHash": "sha256-02eac4d6ed073e09b6626b36b5525b1fdcfc45eeacd3b6c0a5404ec6974d075f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 724001,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "megix"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime",
+      "Torrent"
+    ],
+    "version": 481,
+    "internalName": "CineStream",
+    "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CineStream.cs3",
+    "name": "CineStream"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size%",
+    "jarFileSize": 55930,
+    "fileHash": "sha256-617ed84d94dec35432fde9aff4759940707d2a95a0a51b785581cd4caf12fc45",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 13123,
+    "status": 1,
+    "authors": [
+      "Luna712"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 4,
+    "internalName": "DailymotionProvider",
+    "jarUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DailymotionProvider.jar",
+    "description": "Watch content from Dailymotion",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DailymotionProvider.cs3",
+    "name": "DailymotionProvider",
+    "jarHash": "sha256-38e23a1e452a3fc34c1a62009165162963f40698e587c6bb42f21963eb2c9c77"
+  },
+  {
+    "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
+    "fileHash": "sha256-254de2e85175416e339f5849f78c3801f3ce35b33bb222506a7d944aa78e5484",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 100612,
+    "status": 1,
+    "language": "all",
+    "authors": [
+      "redblacker8"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 31,
+    "internalName": "DeporTVProvider",
+    "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DeporTVProvider.cs3",
+    "name": "DeporTVProvider"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
+    "fileHash": "sha256-96b96f2d8469f5057e7ae66d279000aab70f5a4ab12c405852aa8832bf8fbd77",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 22953,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 23,
+    "internalName": "DiziBox",
+    "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziBox.cs3",
+    "name": "DiziBox"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/dizikorea.png",
+    "fileHash": "sha256-e437559423e7db3760ad4d25c06816bba5bf8478fbcd3c6bbc6bd481f02bc31f",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 23480,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "version": 41,
+    "internalName": "DiziKorea",
+    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziKorea.cs3",
+    "name": "DiziKorea"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
+    "fileHash": "sha256-392a60315bd23c1239a4310443fb9fa9cc31ab6ed9ee6d73ecdf1ca9ef8e6136",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 36126,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 92,
+    "internalName": "Dizilla",
+    "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/Dizilla.cs3",
+    "name": "Dizilla"
+  },
+  {
+    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
+    "fileHash": "sha256-344ea5a34af4b34481634608bc28b88e636ddd60d8f09d1fc405f8d195a76963",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 17134,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 25,
+    "internalName": "DiziYou",
+    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziYou.cs3",
+    "name": "DiziYou"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/HDFilmCehennemi.cs3",
+    "status": 1,
+    "version": 8,
+    "name": "HDFilmCehennemi",
+    "internalName": "HDFilmCehennemi",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "HDFilmCehennemi dizi, film ve anime sağlayıcısı.",
+    "fileSize": 87097,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
+    "apiVersion": 1,
+    "fileHash": "sha256-31145dcfb0cd91fb9a77edf0cb059e94896883f8ec60ba356a672389c16b5b2a"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
+    "jarFileSize": 131745,
+    "fileHash": "sha256-ac3bc7ab9e1677046fe13bdd93e27aa7392248bf9b4384e2340d950622986181",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 29510,
+    "status": 1,
+    "authors": [
+      "Luna712"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 1,
+    "internalName": "InternetArchiveProvider",
+    "jarUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InternetArchiveProvider.jar",
+    "description": "Watch content from the Internet Archive at archive.org",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InternetArchiveProvider.cs3",
+    "name": "InternetArchiveProvider",
+    "jarHash": "sha256-59bdbba75a7f18cf3ff23445aee04432aac44de790281e4811f0533670464624"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+    "jarFileSize": 69249,
+    "fileHash": "sha256-337a4c11070d11392deb9b83831fed36c96533487ff80de0b4b123476539d302",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 15338,
+    "status": 1,
+    "authors": [
+      "Cloudburst"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 9,
+    "internalName": "InvidiousProvider",
+    "jarUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InvidiousProvider.jar",
+    "description": "Watch content from any invidious instance",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InvidiousProvider.cs3",
+    "name": "InvidiousProvider",
+    "jarHash": "sha256-553f4481cd18df463f91fe8a127e3bb37914915c121468b451cd2eb872790309"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
+    "fileHash": "sha256-f497e5f0e02f957c2a05e9cb1128e8d8b7205c70fe7a2b1bde8bbdbae2f5ded8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 27316,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 16,
+    "internalName": "KultFilmler",
+    "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/KultFilmler.cs3",
+    "name": "KultFilmler"
+  },
+  {
+    "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
+    "fileHash": "sha256-b896bf34121d9e374a0a8b6233dbb67a158b1fa2f43c7f35abde8a91ac20ed23",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 26929,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "patr0n",
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "version": 2,
+    "internalName": "Sinewix",
+    "description": "Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/Sinewix.cs3",
+    "name": "Sinewix"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
+    "fileHash": "sha256-15cc3545e15f217a1002feeeacac46f2e2cc59cf486b966b188608c1ad3bd2d8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 1426362,
+    "status": 1,
+    "language": "it",
+    "authors": [
+      "Italiani"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie",
+      "Live"
+    ],
+    "version": 9,
+    "internalName": "StreamCenter",
+    "description": "Film, Serie TV, Anime e TV in un unico posto.",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/StreamCenter.cs3",
+    "name": "StreamCenter"
+  },
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
+    "fileHash": "sha256-166a7c391b2f18870527cb998b0b291134d3035f51c6a49450bf3567d057f337",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 30925,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 29,
+    "internalName": "Streamed",
+    "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/Streamed.cs3",
+    "name": "Streamed"
+  },
+  {
+    "iconUrl": "https://streamingunity.dog/apple-touch-icon.png?v=2",
+    "fileHash": "sha256-05fa6bf2388af0ecfac1f16bbd069ad76612838d15f78fed373df4a51985f088",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 61770,
+    "status": 1,
+    "language": "it",
+    "authors": [
+      "doGior"
+    ],
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Documentary",
+      "Cartoon"
+    ],
+    "version": 33,
+    "internalName": "StreamingCommunity",
+    "description": "TV Shows and Movies from StreamingCommunity",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/StreamingCommunity.cs3",
+    "name": "StreamingCommunity"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.tlctv.com.tr&sz=%size%",
+    "fileHash": "sha256-7425d6b5ed9d8fe2d7b531ea1dc128b5e6e4c4ec63abb23fac4d5e90aef867ce",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 14078,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 19,
+    "internalName": "TLCtr",
+    "description": "TLC tr",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/TLCtr.cs3",
+    "name": "TLCtr"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=asyalog.co&sz=%size%",
+    "fileHash": "sha256-9159bf4cbb5a9fdfd691b8b9a42f4bc9d748785e27d21d6e45a1bb9fea0181a6",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 15423,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "keyiflerolsun"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 65,
+    "internalName": "TRasyalog",
+    "description": "TRasyalog izleme sitesi.",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/TRasyalog.cs3",
+    "name": "TRasyalog"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/TV/television.png",
+    "fileHash": "sha256-dc5b1ee3e073ecf8cb4008833dbef1e4f24f30b4ed1c9bd5068a85a56b61c199",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 29468,
+    "status": 1,
+    "authors": [
+      "Gian-Fr",
+      "Adippe",
+      "doGior"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 3,
+    "internalName": "TV",
+    "description": "Live streams from the Free TV github repository. Forked from the Free-TV plugin in the ItalianProvider repo",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/TV.cs3",
+    "name": "TV"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
+    "jarFileSize": 56926,
+    "fileHash": "sha256-ad7308f5f19b8a5cfbbde4a4046da6a3b5a1a32f11e6289211c7558e63d9a3c9",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 15021,
+    "status": 1,
+    "authors": [
+      "CranberrySoup"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 2,
+    "internalName": "TwitchProvider",
+    "jarUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/TwitchProvider.jar",
+    "description": "Watch livestreams from Twitch",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/TwitchProvider.cs3",
+    "name": "TwitchProvider",
+    "jarHash": "sha256-63facb7c70f51365f95f5e3ef3871cd6a1804383b7ba8eabc1d78563ea6daad5"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
+    "fileHash": "sha256-19406ec27f7a573cded5a547253502f66c7f72c77b6bc96b54204c31df46ab9e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 48553,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "patr0n"
+    ],
+    "tvTypes": [
+      "AsianDrama",
+      "Movie",
+      "Anime",
+      "Others"
+    ],
+    "version": 1,
+    "internalName": "WebdramaTurkey2",
+    "description": "WebdramaTurkey2 İçerikleri",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/WebdramaTurkey2.cs3",
+    "name": "WebdramaTurkey2"
+  },
+  {
+    "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
+    "fileHash": "sha256-38e13b0ed979f902baea710433543d88f275ec74620d1ec80eff5cc9c8d33408",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileSize": 41038,
+    "status": 1,
+    "authors": [
+      "doGior"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 19,
+    "internalName": "YouTube",
+    "description": "Videos, playlists and channels from YouTube",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/YouTube.cs3",
+    "name": "YouTube"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SelcukSports.cs3",
     "status": 3,
     "version": 16,
     "name": "SelçukSports • SafakStream",
@@ -499,468 +499,468 @@
       "SafakStream"
     ],
     "description": "🟢 Canlı spor yayınları ve maç özetleri izle.",
-    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/SelcukSports.png",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/SelcukSports.png",
     "apiVersion": 1
   },
-    {
-    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/AslanTV.cs3",
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/AslanTV.cs3",
     "status": 3,
     "version": 13,
     "name": "Aslan TV • SafakStream",
     "internalName": "AslanTV",
     "authors": [
-        "SafakStream"
+      "SafakStream"
     ],
     "description": "🟢 Kaynak: Aslan TV · Mod: SafakStream · WARP gerekebilir.",
     "fileSize": 179322,
-    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
     "language": "tr",
     "tvTypes": [
-        "Live"
+      "Live"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/AslanTV.png",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/AslanTV.png",
     "apiVersion": 1,
     "fileHash": "sha256-e25514a9554a577102c40acffe82b602383590faf9ec61fb74f59313786ae2e0"
-},
-{
-        "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CinemaCity.cs3",
-        "status": 1,
-        "version": 26,
-        "name": "CinemaCity • SafakStream",
-        "internalName": "Cinemacity",
-        "authors": [
-            "SafakStream"
-        ],
-        "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
-        "fileSize": 98237,
-        "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-        "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/cinemacity.webp",
-        "apiVersion": 1,
-        "fileHash": "sha256-fcba1c412fc42ac26007a54daa6790a918253796e0b608bcd089286399be32dd"
-    },
-{
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/ClipBox.cs3",
-  "status": 1,
-  "version": 10,
-  "name": "ClipBox • SafakStream",
-  "internalName": "ClipBox",
-  "pluginClassName": "dev.wiojelt.turksinema.entry.ClipBoxEntry",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "Clip Box · SafakStream sağlayıcı paketi",
-  "fileSize": 749579,
-  "repositoryUrl": "https://safakstream.github.io/SafakStream/",
-  "language": "tr",
-  "tvTypes": [
-    "Movie",
-    "TvSeries",
-    "Anime",
-    "Documentary"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/ClipBox.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-926eea8e3cfc85963cf2b25cacad2baf5f7776a9040538dd672145ddf5929caa"
-},
-{
-  "name": "CNC Verse",
-  "internalName": "CNC Verse",
-  "version": 111,
-  "apiVersion": 1,
-  "status": 1,
-  "language": "ta",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "Netflix, Prime Video ve Disney+ içerik sağlayıcısı.",
-  "tvTypes": [
-    "Movie",
-    "TvSeries"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/logo.jpeg",
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CNCVerse.cs3",
-  "pluginUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CNCVerse.cs3",
-  "fileSize": 104474,
-  "fileHash": "sha256-32ca70063d26ab8d49680798ac6bdeb4686ca82f994bb39350b45c024bf3db9a"
-},
-    {
-    "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/cropped-cricfytv-2.png",
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CinemaCity.cs3",
+    "status": 1,
+    "version": 26,
+    "name": "CinemaCity • SafakStream",
+    "internalName": "Cinemacity",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
+    "fileSize": 98237,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/cinemacity.webp",
+    "apiVersion": 1,
+    "fileHash": "sha256-fcba1c412fc42ac26007a54daa6790a918253796e0b608bcd089286399be32dd"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/ClipBox.cs3",
+    "status": 1,
+    "version": 10,
+    "name": "ClipBox • SafakStream",
+    "internalName": "ClipBox",
+    "pluginClassName": "dev.wiojelt.turksinema.entry.ClipBoxEntry",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "Clip Box · SafakStream sağlayıcı paketi",
+    "fileSize": 749579,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/ClipBox.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-926eea8e3cfc85963cf2b25cacad2baf5f7776a9040538dd672145ddf5929caa"
+  },
+  {
+    "name": "CNC Verse",
+    "internalName": "CNC Verse",
+    "version": 111,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "ta",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "Netflix, Prime Video ve Disney+ içerik sağlayıcısı.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/logo.jpeg",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CNCVerse.cs3",
+    "pluginUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CNCVerse.cs3",
+    "fileSize": 104474,
+    "fileHash": "sha256-32ca70063d26ab8d49680798ac6bdeb4686ca82f994bb39350b45c024bf3db9a"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/cropped-cricfytv-2.png",
     "fileHash": "sha256-bc78a26075c4d47f5f46f402dd04312942128f7c4b00577c186de56fbcff9a58",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
     "fileSize": 102174,
     "status": 1,
     "language": "ta",
     "authors": [
-        "SafakStream"
+      "SafakStream"
     ],
     "tvTypes": [
-        "Live"
+      "Live"
     ],
     "version": 68,
     "internalName": "CricifyProvider",
     "description": "Watch Live sports and TV channels",
-    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/CricifyProvider.cs3",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CricifyProvider.cs3",
     "name": "Cricify • SafakStream"
-},
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DiziMom.cs3",
-  "status": 3,
-  "version": 9,
-  "name": "DiziMom",
-  "internalName": "DiziMom",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "Dizi Mom · SafakStream sağlayıcı paketi",
-  "fileSize": 47681,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Movie",
-    "TvSeries",
-    "Anime",
-    "Documentary"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/DiziMom.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-1cfa3be33c172fd0209917219bbb53c49be97cb959c75e62b70e27b880f35a62"
-},
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/DominoTV.cs3",
-  "status": 1,
-  "version": 6,
-  "name": "Domino TV Spor",
-  "internalName": "DominoTV",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "Domino TV dinamik spor kanalları · SafakStream",
-  "fileSize": 92016,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/DominoTV.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-bbf0b48c3ef81218745b0bc618cbdff40c49196bad36678237dba0321bc0141c"
-},
-        {
-      "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/InatTV.cs3",
-      "status": 3,
-      "version": 13,
-      "name": "Inat TV",
-      "internalName": "InatTV",
-      "authors": [
-        "SafakStream"
-      ],
-      "description": "İnat TV dinamik canlı yayınlar · SafakStream",
-      "fileSize": 104008,
-      "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-      "language": "tr",
-      "tvTypes": [
-        "Live"
-      ],
-      "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/InatTV.png",
-      "apiVersion": 1,
-      "fileHash": "sha256-aaa9b6f79bb2039858d9e70d6e83a0dcf9ebd441fa95c6e443153d1547ddac4f"
-    },
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/NetVGold.cs3",
-  "status": 1,
-  "version": 6,
-  "name": "NetVGold",
-  "internalName": "NetVGold",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "NETV Gold uygulamasının doğrulanmış spor kanalları",
-  "fileSize": 139267,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/NetVGold.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-1cac819e6fe5d67a74472c803ff66d127c1ce912682225f195b619ac4383083c"
-    },
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/PapazSports.cs3",
-  "status": 1,
-  "version": 5,
-  "name": "Papaz Sports",
-  "internalName": "PapazSports",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/PapazSports.png",
-  "apiVersion": 1
-},
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/TRGoals.cs3",
-  "status": 1,
-  "version": 5,
-  "name": "TRGoals",
-  "internalName": "TRGoals",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/TRGoals.png",
-  "apiVersion": 1
-},
-    {
-  "name": "PlayFy",
-  "internalName": "PlayFyProvider",
-  "version": 12,
-  "description": "Canlı spor yayınları ve TV kanalları (SafakStream Mod)",
-  "authors": [
-    "SafakStream"
-  ],
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/PlayFyProvider.cs3",
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/playfy-tv-4.webp",
-  "language": "tr",
-  "status": 1,
-  "tvTypes": [
-    "Live"
-  ],
-  "apiVersion": 1,
-  "fileSize": 102425,
-  "fileHash": "sha256-028f02630e33637947fa052ab921f4023ebc860371fe077226ee964b6365f162"
-},
-    {
-  "name": "PlayZTV",
-  "internalName": "PlayZTVProvider",
-  "version": 38,
-  "description": "Canlı TV kanalları ve spor yayınları (SafakStream Mod)",
-  "authors": [
-    "SafakStream"
-  ],
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/PlayZTVProvider.cs3",
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/playztv.jpg",
-  "language": "tr",
-  "status": 1,
-  "tvTypes": [
-    "Live"
-  ],
-  "apiVersion": 1,
-  "fileSize": 110321,
-  "fileHash": "sha256-3280d2733a2acf6372397220af6eab6186068d4aaf28bf35ee19df869f2370d6"
-},
-    {
-  "name": "SportzX",
-  "internalName": "SportzxProvider",
-  "version": 22,
-  "description": "Canlı spor müsabakaları ve yayınları (SafakStream Mod)",
-  "authors": [
-    "SafakStream"
-  ],
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/SportzxProvider.cs3",
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/sportzx.png",
-  "language": "tr",
-  "status": 1,
-  "tvTypes": [
-    "Live"
-  ],
-  "apiVersion": 1,
-  "fileSize": 116850,
-  "fileHash": "sha256-c590b0bf76922b57adac72570c91edb46b4c1978693a813e32a983e519babbb2"
-},
-    {
-  "name": "WatchParty",
-  "internalName": "WatchParty",
-  "version": 4,
-  "description": "Birlikte eşzamanlı izleme ve canlı sohbet eklentisi",
-  "authors": [
-    "SafakStream"
-  ],
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/WatchParty.cs3",
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/WatchParty_icon.png",
-  "language": "tr",
-  "status": 1,
-  "tvTypes": [
-    "Others"
-  ],
-  "apiVersion": 1,
-  "fileSize": 98767,
-  "fileHash": "sha256-8a9f3e1b00d21c24b8da6884003b66fdda684d96711c71e00d95b83ed82c2fca"
-},
-    {
-  "name": "Sinemakolik",
-  "internalName": "Sinemakolik",
-  "version": 2,
-  "description": "Sinemakolik film ve dizi arşivi (SafakStream Mod)",
-  "authors": [
-    "SafakStream"
-  ],
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/Sinemakolik.cs3",
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/sinemakolik.png",
-  "language": "tr",
-  "status": 1,
-  "tvTypes": [
-    "Movie",
-    "TvSeries",
-    "Anime",
-    "Documentary"
-  ],
-  "apiVersion": 1,
-  "fileSize": 43766,
-  "fileHash": "sha256-f0727c217c215c14fab3fa77b6ad1607246913fd0d60d81ceb689a0ed9690fd5"
-},
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/BeyazElma.cs3",
-  "status": 3,
-  "version": 12,
-  "name": "BeyazElma",
-  "internalName": "BeyazElma",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "🟢 Kaynak: BeyazElma · SafakStream",
-  "fileSize": 160060,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/Wiojelt/TurkSpor/main/assets/providers/BeyazElma.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-adb9c20e1ea8b5c35d2985483036f35d43d8dd4aaf4e3c5db027d9b6c6e03a3c"
-},
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/FilmModu.cs3",
-  "status": 1,
-  "version": 20,
-  "name": "FilmModu",
-  "internalName": "FilmModu",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-  "fileSize": 16496,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Movie"
-  ],
-  "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
-  "apiVersion": 1,
-  "fileHash": "sha256-3150a6212f052ad843a8b9e67d65c82b35078f502bb9f5032b1af808d87b862e"
-},
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/SelcukFlix.cs3",
-  "status": 1,
-  "version": 3,
-  "name": "SelcukFlix",
-  "internalName": "SelcukFlix",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "SelcukFlix eklentisi.",
-  "fileSize": 33998,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Movie",
-    "TvSeries"
-  ],
-  "iconUrl": "https://selcukflix.co/assets/favicon/favicon-32x32.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-835fd32012016c56acc786a48b2188899708212995931e48d602ef3f0f808b20"
-},
-    {
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziMom.cs3",
+    "status": 3,
+    "version": 9,
+    "name": "DiziMom",
+    "internalName": "DiziMom",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "Dizi Mom · SafakStream sağlayıcı paketi",
+    "fileSize": 47681,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DiziMom.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1cfa3be33c172fd0209917219bbb53c49be97cb959c75e62b70e27b880f35a62"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DominoTV.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "Domino TV Spor",
+    "internalName": "DominoTV",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "Domino TV dinamik spor kanalları · SafakStream",
+    "fileSize": 92016,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DominoTV.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-bbf0b48c3ef81218745b0bc618cbdff40c49196bad36678237dba0321bc0141c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InatTV.cs3",
+    "status": 3,
+    "version": 13,
+    "name": "Inat TV",
+    "internalName": "InatTV",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "İnat TV dinamik canlı yayınlar · SafakStream",
+    "fileSize": 104008,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/InatTV.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-aaa9b6f79bb2039858d9e70d6e83a0dcf9ebd441fa95c6e443153d1547ddac4f"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/NetVGold.cs3",
+    "status": 1,
+    "version": 6,
+    "name": "NetVGold",
+    "internalName": "NetVGold",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "NETV Gold uygulamasının doğrulanmış spor kanalları",
+    "fileSize": 139267,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/NetVGold.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-1cac819e6fe5d67a74472c803ff66d127c1ce912682225f195b619ac4383083c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/PapazSports.cs3",
+    "status": 1,
+    "version": 5,
+    "name": "Papaz Sports",
+    "internalName": "PapazSports",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/PapazSports.png",
+    "apiVersion": 1
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/TRGoals.cs3",
+    "status": 1,
+    "version": 5,
+    "name": "TRGoals",
+    "internalName": "TRGoals",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "TRGoals dinamik spor kanalları ve alan güncelleme ekranı",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/TRGoals.png",
+    "apiVersion": 1
+  },
+  {
+    "name": "PlayFy",
+    "internalName": "PlayFyProvider",
+    "version": 12,
+    "description": "Canlı spor yayınları ve TV kanalları (SafakStream Mod)",
+    "authors": [
+      "SafakStream"
+    ],
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/PlayFyProvider.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/playfy-tv-4.webp",
+    "language": "tr",
+    "status": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileSize": 102425,
+    "fileHash": "sha256-028f02630e33637947fa052ab921f4023ebc860371fe077226ee964b6365f162"
+  },
+  {
+    "name": "PlayZTV",
+    "internalName": "PlayZTVProvider",
+    "version": 38,
+    "description": "Canlı TV kanalları ve spor yayınları (SafakStream Mod)",
+    "authors": [
+      "SafakStream"
+    ],
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/PlayZTVProvider.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/playztv.jpg",
+    "language": "tr",
+    "status": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileSize": 110321,
+    "fileHash": "sha256-3280d2733a2acf6372397220af6eab6186068d4aaf28bf35ee19df869f2370d6"
+  },
+  {
+    "name": "SportzX",
+    "internalName": "SportzxProvider",
+    "version": 22,
+    "description": "Canlı spor müsabakaları ve yayınları (SafakStream Mod)",
+    "authors": [
+      "SafakStream"
+    ],
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SportzxProvider.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/sportzx.png",
+    "language": "tr",
+    "status": 1,
+    "tvTypes": [
+      "Live"
+    ],
+    "apiVersion": 1,
+    "fileSize": 116850,
+    "fileHash": "sha256-c590b0bf76922b57adac72570c91edb46b4c1978693a813e32a983e519babbb2"
+  },
+  {
+    "name": "WatchParty",
+    "internalName": "WatchParty",
+    "version": 4,
+    "description": "Birlikte eşzamanlı izleme ve canlı sohbet eklentisi",
+    "authors": [
+      "SafakStream"
+    ],
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/WatchParty.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/WatchParty_icon.png",
+    "language": "tr",
+    "status": 1,
+    "tvTypes": [
+      "Others"
+    ],
+    "apiVersion": 1,
+    "fileSize": 98767,
+    "fileHash": "sha256-8a9f3e1b00d21c24b8da6884003b66fdda684d96711c71e00d95b83ed82c2fca"
+  },
+  {
+    "name": "Sinemakolik",
+    "internalName": "Sinemakolik",
+    "version": 2,
+    "description": "Sinemakolik film ve dizi arşivi (SafakStream Mod)",
+    "authors": [
+      "SafakStream"
+    ],
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/Sinemakolik.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/sinemakolik.png",
+    "language": "tr",
+    "status": 1,
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "apiVersion": 1,
+    "fileSize": 43766,
+    "fileHash": "sha256-f0727c217c215c14fab3fa77b6ad1607246913fd0d60d81ceb689a0ed9690fd5"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/BeyazElma.cs3",
+    "status": 3,
+    "version": 12,
+    "name": "BeyazElma",
+    "internalName": "BeyazElma",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "🟢 Kaynak: BeyazElma · SafakStream",
+    "fileSize": 160060,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/BeyazElma.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-adb9c20e1ea8b5c35d2985483036f35d43d8dd4aaf4e3c5db027d9b6c6e03a3c"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/FilmModu.cs3",
+    "status": 1,
+    "version": 20,
+    "name": "FilmModu",
+    "internalName": "FilmModu",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
+    "fileSize": 16496,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
+    "apiVersion": 1,
+    "fileHash": "sha256-3150a6212f052ad843a8b9e67d65c82b35078f502bb9f5032b1af808d87b862e"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SelcukFlix.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "SelcukFlix",
+    "internalName": "SelcukFlix",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "SelcukFlix eklentisi.",
+    "fileSize": 33998,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://selcukflix.co/assets/favicon/favicon-32x32.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-835fd32012016c56acc786a48b2188899708212995931e48d602ef3f0f808b20"
+  },
+  {
     "iconUrl": "https://play-lh.googleusercontent.com/eUBvwF8qxYbAB-teSb1o3PSvKDUbjQzJO5xuqAiXzncQo55_Gp9aByEaJ79a1lDS6zecy-SvzOLSK-UIRmcTYQ=s320",
     "fileHash": "sha256-edcbe5a900aadc32c7c5dce3bcb6b48fe9a5d8aaba98f6269ae6665f43231f1c",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/SafakStream/SafakStream",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
     "fileSize": 108404,
     "status": 1,
     "language": "tr",
     "authors": [
-        "SafakStream"
+      "SafakStream"
     ],
     "tvTypes": [
-        "All"
+      "All"
     ],
     "version": 8,
     "internalName": "trakt-sync",
     "description": "İzlenen içerikleri otomatik izlendi olarak işaretler ve izleme listesini senkronize eder.",
-    "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/trakt-sync.cs3",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/trakt-sync.cs3",
     "name": "trakt-sync"
-    },
-    {
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/SafakStreamTV.cs3",
-  "status": 3,
-  "version": 17,
-  "name": "SafakStreamTV",
-  "internalName": "SafakStreamTV",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "🟢 SafakStream Özel Canlı TV & Medya Yayını ♥",
-  "fileSize": 183468,
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "language": "tr",
-  "tvTypes": [
-    "Movie",
-    "TvSeries",
-    "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/SafakStreamTV.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-5218c9ac2a11711d34456539a994756df3f3268abfd89c5d236ad0cb451b52a5"
-    },
-    {
-  "name": "SafakStream Cinema",
-  "internalName": "SafakStream Cinema",
-  "version": 4,
-  "description": "Geniş film, dizi ve anime arşivi (48 Kaynak)",
-  "authors": [
-    "SafakStream"
-  ],
-  "repositoryUrl": "https://github.com/SafakStream/SafakStream",
-  "url": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/SafakStreamCinema.cs3",
-  "iconUrl": "https://raw.githubusercontent.com/SafakStream/SafakStream/builds/icons/SafakStreamCinema.png",
-  "language": "tr",
-  "status": 1,
-  "tvTypes": [
-    "AsianDrama",
-    "TvSeries",
-    "Anime",
-    "Movie",
-    "Cartoon",
-    "AnimeMovie"
-  ],
-  "apiVersion": 1,
-  "fileSize": 1611493,
-  "fileHash": "sha256-7f8381ea83c649123f0d63b4b529b6a813804cfdba00680f5d7aedc2bc79e609"
-}
+  },
+  {
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SafakStreamTV.cs3",
+    "status": 3,
+    "version": 17,
+    "name": "SafakStreamTV",
+    "internalName": "SafakStreamTV",
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "🟢 SafakStream Özel Canlı TV & Medya Yayını ♥",
+    "fileSize": 183468,
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/SafakStreamTV.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-5218c9ac2a11711d34456539a994756df3f3268abfd89c5d236ad0cb451b52a5"
+  },
+  {
+    "name": "SafakStream Cinema",
+    "internalName": "SafakStream Cinema",
+    "version": 4,
+    "description": "Geniş film, dizi ve anime arşivi (48 Kaynak)",
+    "authors": [
+      "SafakStream"
+    ],
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SafakStreamCinema.cs3",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/SafakStreamCinema.png",
+    "language": "tr",
+    "status": 1,
+    "tvTypes": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "apiVersion": 1,
+    "fileSize": 1611493,
+    "fileHash": "sha256-7f8381ea83c649123f0d63b4b529b6a813804cfdba00680f5d7aedc2bc79e609"
+  }
 ]
