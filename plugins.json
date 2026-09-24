@@ -554,27 +554,6 @@
     "fileHash": "sha256-926eea8e3cfc85963cf2b25cacad2baf5f7776a9040538dd672145ddf5929caa"
   },
   {
-  "name": "CNCVerse",
-  "internalName": "CNCVerse",
-  "pluginClassName": "com.safakstream.cncverse.CNCVersePlugin",
-  "version": 1,
-  "apiVersion": 1,
-  "status": 1,
-  "language": "tr",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "Netflix, Prime Video ve Disney+ içerik sağlayıcısı.",
-  "tvTypes": [
-    "Movie",
-    "TvSeries"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/logo.jpeg",
-  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CNCVerse.cs3",
-  "fileSize": 103780,
-  "fileHash": "sha256-120afb12f26976ea598ca50949b6ce7f93bb8b81e5b9718cc787fce6c7537dec"
-},
-  {
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/cropped-cricfytv-2.png",
     "fileHash": "sha256-bc78a26075c4d47f5f46f402dd04312942128f7c4b00577c186de56fbcff9a58",
     "apiVersion": 1,
