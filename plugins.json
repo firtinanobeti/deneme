@@ -946,22 +946,24 @@
     "fileHash": "sha256-7f8381ea83c649123f0d63b4b529b6a813804cfdba00680f5d7aedc2bc79e609"
   },
   {
-  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SafakSpor.cs3",
-  "status": 3,
-  "version": 2,
   "name": "SafakSpor",
   "internalName": "SafakSpor",
+  "pluginClassName": "com.safakstream.safakspor.SafakSporPlugin",
+  "version": 1,
+  "fileSize": 204874,
+  "fileHash": "sha256-616424a9991ba71b323a0e3df1a678f648d9b52c6fd886371b2c3b6b9d536b72",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SafakSpor.cs3",
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/SafakStreamSpor.png",
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
   "authors": [
-    "Fırtına Nöbeti"
+    "SafakStream"
   ],
   "description": "🟢 Canlı Spor ve TV Kanalları · SafakStream Özel Sürüm · WARP gerekebilir.",
-  "fileSize": 209240,
-  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
   "language": "tr",
+  "status": 3,
+  "apiVersion": 1,
   "tvTypes": [
     "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/SafakStreamSpor.png",
-  "apiVersion": 1
+  ]
 }
 ]
