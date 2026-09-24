@@ -1,24 +1,25 @@
 [
   {
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/belgeselx.png",
-    "fileHash": "sha256-6a1a59c4343c921dd95a2e9a8ef2951ae829a5d617313264b3dabb9577876dbe",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 30753,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "SafakStream"
-    ],
-    "tvTypes": [
-      "Documentary"
-    ],
-    "version": 1,
-    "internalName": "BelgeselX",
-    "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/BelgeselX.cs3",
-    "name": "BelgeselX"
-  },
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/belgeselx.png",
+  "fileHash": "sha256-6a1a59c4343c921dd95a2e9a8ef2951ae829a5d617313264b3dabb9577876dbe",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "fileSize": 30753,
+  "status": 1,
+  "language": "tr",
+  "authors": [
+    "SafakStream"
+  ],
+  "tvTypes": [
+    "Documentary"
+  ],
+  "version": 1,
+  "internalName": "BelgeselX",
+  "pluginClassName": "com.safakstream.BelgeselXPlugin",
+  "description": "En yeni belgeseller, türkçe altyazılı yada dublaj olarak 1080p kalitesinde HD belgesel izle.",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/BelgeselX.cs3",
+  "name": "BelgeselX"
+},
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
     "fileHash": "sha256-2e9cc154c26af5caba1554c515c355e96dab86683a5a1c4c215efb645448ab24",
