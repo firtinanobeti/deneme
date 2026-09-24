@@ -923,5 +923,26 @@
     "apiVersion": 1,
     "fileSize": 1611493,
     "fileHash": "sha256-7f8381ea83c649123f0d63b4b529b6a813804cfdba00680f5d7aedc2bc79e609"
-  }
+  },
+  {
+  "name": "AslanTV",
+  "internalName": "AslanTV",
+  "pluginClassName": "com.safakstream.aslantv.AslanTVPlugin",
+  "version": 1,
+  "description": "Aslan TV canlı yayın sağlayıcısı.",
+  "authors": [
+    "SafakStream"
+  ],
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/AslanTV.cs3",
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/AslanTV.png",
+  "language": "tr",
+  "status": 1,
+  "tvTypes": [
+    "Live"
+  ],
+  "apiVersion": 1,
+  "fileSize": 204059,
+  "fileHash": "sha256-39e8ef462946c84767ea9b4d9b84f3650c44faba5282d0b4f07973541061d58b"
+}
 ]
