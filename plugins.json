@@ -554,26 +554,26 @@
     "fileHash": "sha256-926eea8e3cfc85963cf2b25cacad2baf5f7776a9040538dd672145ddf5929caa"
   },
   {
-    "name": "CNC Verse",
-    "internalName": "CNC Verse",
-    "version": 111,
-    "apiVersion": 1,
-    "status": 1,
-    "language": "ta",
-    "authors": [
-      "SafakStream"
-    ],
-    "description": "Netflix, Prime Video ve Disney+ içerik sağlayıcısı.",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/logo.jpeg",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CNCVerse.cs3",
-    "pluginUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CNCVerse.cs3",
-    "fileSize": 104474,
-    "fileHash": "sha256-32ca70063d26ab8d49680798ac6bdeb4686ca82f994bb39350b45c024bf3db9a"
-  },
+  "name": "CNCVerse",
+  "internalName": "CNCVerse",
+  "pluginClassName": "com.safakstream.cncverse.CNCVersePlugin",
+  "version": 1,
+  "apiVersion": 1,
+  "status": 1,
+  "language": "tr",
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "Netflix, Prime Video ve Disney+ içerik sağlayıcısı.",
+  "tvTypes": [
+    "Movie",
+    "TvSeries"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/logo.jpeg",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CNCVerse.cs3",
+  "fileSize": 103847,
+  "fileHash": "sha256-45a777ddae11252514d954dc77df959f10a52e1279fda9f2e746d2aa9826da75"
+},
   {
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/cropped-cricfytv-2.png",
     "fileHash": "sha256-bc78a26075c4d47f5f46f402dd04312942128f7c4b00577c186de56fbcff9a58",
