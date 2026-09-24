@@ -927,10 +927,10 @@
   {
   "name": "SafakSpor",
   "internalName": "SafakSpor",
-  "pluginClassName": "com.safakstream.safakspor.SafakSporPlugin",
+  "pluginClassName": "com.safakstream.safakspor.SafaksporPlugin",
   "version": 1,
-  "fileSize": 204874,
-  "fileHash": "sha256-616424a9991ba71b323a0e3df1a678f648d9b52c6fd886371b2c3b6b9d536b72",
+  "fileSize": 204857,
+  "fileHash": "sha256-6e1e7911b33f4eb99eee920d928d0793a8a2f2745425aeb503155a02ed6022bd",
   "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SafakSpor.cs3",
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/SafakStreamSpor.png",
   "repositoryUrl": "https://github.com/firtinanobeti/deneme",
