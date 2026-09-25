@@ -772,27 +772,6 @@
     "fileHash": "sha256-f0727c217c215c14fab3fa77b6ad1607246913fd0d60d81ceb689a0ed9690fd5"
   },
   {
-  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/BeyazElma.cs3",
-  "status": 3,
-  "version": 1,
-  "name": "BeyazElma",
-  "internalName": "BeyazElma",
-  "pluginClassName": "com.safakstream.beyazelma.BeyazElmaPlugin",
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "🟢 Kaynak: BeyazElma · SafakStream",
-  "fileSize": 155737,
-  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-  "language": "tr",
-  "tvTypes": [
-    "Live"
-  ],
-  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/BeyazElma.png",
-  "apiVersion": 1,
-  "fileHash": "sha256-6f70c8fd0614978f11fea6daa9f5aa6ccf5d4b20188187086c990f80d95d9acb"
-},
-  {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/FilmModu.cs3",
     "status": 1,
     "version": 20,
