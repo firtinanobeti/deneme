@@ -782,7 +782,7 @@
     "SafakStream"
   ],
   "description": "🟢 Kaynak: BeyazElma · SafakStream",
-  "fileSize": 155790,
+  "fileSize": 155740,
   "repositoryUrl": "https://github.com/firtinanobeti/deneme",
   "language": "tr",
   "tvTypes": [
@@ -790,7 +790,7 @@
   ],
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/BeyazElma.png",
   "apiVersion": 1,
-  "fileHash": "sha256-20c22b4585d481c14ee1130c5728602bb9e53670a2c25d6edc53115d026c2055"
+  "fileHash": "sha256-bdbb7bd5aada6b4ee0820b744a9b9c89de0bdc0558136639e8b66bd7922ecd82"
 },
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/FilmModu.cs3",
