@@ -21,26 +21,26 @@
   "name": "BelgeselX"
 },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=tr.canlitv.team&sz=%size%",
-    "fileHash": "sha256-2e9cc154c26af5caba1554c515c355e96dab86683a5a1c4c215efb645448ab24",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 20425,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "Adippe",
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 10,
-    "internalName": "CanliTV",
-    "description": "Canlı TV",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CanliTV.cs3",
-    "name": "CanliTV"
-  },
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/canlitv.png",
+  "fileHash": "sha256-a0bcad8dd3755581f2f7d791f9db7934ba9ed5e0e63df4810fa7d177b2255fee",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "fileSize": 20266,
+  "status": 1,
+  "language": "tr",
+  "authors": [
+    "SafakStream"
+  ],
+  "tvTypes": [
+    "Live"
+  ],
+  "version": 1,
+  "pluginClassName": "com.safakstream.canlitv.CanliTVPlugin",
+  "internalName": "CanliTV",
+  "description": "SafakStream Canlı TV Eklentisi",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/CanliTV.cs3",
+  "name": "CanliTV"
+},
   {
     "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
     "fileHash": "sha256-02eac4d6ed073e09b6626b36b5525b1fdcfc45eeacd3b6c0a5404ec6974d075f",
