@@ -518,7 +518,7 @@
     "SafakStream"
   ],
   "description": "Filmleri ve Dizileri İzleyin",
-  "fileSize": 106732,
+  "fileSize": 106843,
   "repositoryUrl": "https://github.com/firtinanobeti/deneme",
   "language": "tr",
   "tvTypes": [
@@ -527,7 +527,7 @@
   ],
   "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
   "apiVersion": 1,
-  "fileHash": "sha256-4a8c4a558814c7df917d581f38043893852974efbfc9f131292b98376a389d7c"
+  "fileHash": "sha256-6ce0fb0950fcd2e63a71d0927cadc84686095ba42c94c350dc2903c401fa714c"
 },
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/ClipBox.cs3",
