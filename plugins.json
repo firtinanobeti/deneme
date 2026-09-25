@@ -944,5 +944,30 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/ClipBox.png",
     "apiVersion": 1
-    }
+    },
+  {
+  "name": "VerseMobile",
+  "internalName": "VerseMobile",
+  "pluginClassName": "com.safakstream.versemobile.VerseMobilePlugin",
+  "version": 1,
+  "apiVersion": 1,
+  "status": 1,
+  "language": "ta",
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/VerseMobile.jpeg",
+  "authors": [
+    "SafakStream"
+  ],
+  "tvTypes": [
+    "Movie",
+    "TvSeries"
+  ],
+  "types": [
+    "Provider"
+  ],
+  "description": "VerseMobile coklu saglayici (NetMirror API).",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/VerseMobile.cs3",
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "fileHash": "sha256-4ffdb502da8c264593eb94283b764c77206429a2d38453c16801948f2b6396f5",
+  "fileSize": 95696
+}
 ]
