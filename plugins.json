@@ -920,5 +920,29 @@
   "apiVersion": 1,
   "fileSize": 203147,
   "fileHash": "sha256-0bcb043aa48500f3e8f0e1ee5005ddca4448b1686b9ca7e12ae98d15a2cbab6d"
-}
+},
+    {
+    "name": "ClipBox",
+    "internalName": "ClipBox",
+    "pluginClassName": "com.safakstream.clipbox.entry.ClipBoxEntry",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/ClipBox.cs3",
+    "fileHash": "sha256-dc3ce8d5e35fae834eb83b8a10b1cb6ba4ffa7636f0958426c477504151d7ac6",
+    "fileSize": 794411,
+    "status": 1,
+    "authors": [
+      "SafakStream"
+    ],
+    "description": "SafakStream ClipBox Eklentisi",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Documentary"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/ClipBox.png",
+    "apiVersion": 1
+    }
 ]
