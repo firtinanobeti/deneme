@@ -528,31 +528,7 @@
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/cinemacity.png",
   "apiVersion": 1,
   "fileHash": "sha256-be250125f7ccbcb5ee52650c307998aa5db55805dcfd9807846049d1fb9ae59a"
-},
-  {
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/ClipBox.cs3",
-    "status": 1,
-    "version": 10,
-    "name": "ClipBox • SafakStream",
-    "internalName": "ClipBox",
-    "pluginClassName": "dev.wiojelt.turksinema.entry.ClipBoxEntry",
-    "authors": [
-      "SafakStream"
-    ],
-    "description": "Clip Box · SafakStream sağlayıcı paketi",
-    "fileSize": 749579,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/ClipBox.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-926eea8e3cfc85963cf2b25cacad2baf5f7776a9040538dd672145ddf5929caa"
-  },
+}
   {
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/cropped-cricfytv-2.png",
     "fileHash": "sha256-bc78a26075c4d47f5f46f402dd04312942128f7c4b00577c186de56fbcff9a58",
