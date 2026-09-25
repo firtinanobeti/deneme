@@ -525,7 +525,7 @@
     "Movie",
     "TvSeries"
   ],
-  "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/cinemacity.png",
   "apiVersion": 1,
   "fileHash": "sha256-6ce0fb0950fcd2e63a71d0927cadc84686095ba42c94c350dc2903c401fa714c"
 },
