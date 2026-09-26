@@ -66,27 +66,23 @@
   "name": "CineStream"
 },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size%",
-    "jarFileSize": 55930,
-    "fileHash": "sha256-617ed84d94dec35432fde9aff4759940707d2a95a0a51b785581cd4caf12fc45",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 13123,
-    "status": 1,
-    "authors": [
-      "Luna712"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 4,
-    "internalName": "DailymotionProvider",
-    "jarUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DailymotionProvider.jar",
-    "description": "Watch content from Dailymotion",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DailymotionProvider.cs3",
-    "name": "DailymotionProvider",
-    "jarHash": "sha256-38e23a1e452a3fc34c1a62009165162963f40698e587c6bb42f21963eb2c9c77"
-  },
+  "name": "Dailymotion",
+  "internalName": "DailymotionProvider",
+  "pluginClassName": "com.safakstream.dailymotion.DailymotionPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DailymotionProvider.cs3",
+  "fileHash": "12991",
+  "fileSize": "sha256-e564e00f23e7b2b4597594d428c590ef7f66b1358e3677b3a3ee6beaff4e0a2d",
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "SafakStream Dailymotion İçerik Sağlayıcısı",
+  "tvTypes": [
+    "Others"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/Dailymotion.webp",
+  "status": 1
+},
   {
     "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
     "fileHash": "sha256-254de2e85175416e339f5849f78c3801f3ce35b33bb222506a7d944aa78e5484",
