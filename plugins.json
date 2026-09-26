@@ -121,25 +121,26 @@
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DiziBox.png",
   "status": 1
 },
-  {
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/dizikorea.png",
-    "fileHash": "sha256-e437559423e7db3760ad4d25c06816bba5bf8478fbcd3c6bbc6bd481f02bc31f",
+    {
+    "name": "DiziKorea",
+    "internalName": "DiziKorea",
+    "pluginClassName": "com.safakstream.dizikorea.DiziKoreaPlugin",
+    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "authors": [
+      "SafakStream"
+    ],
+    "version": 1,
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 23480,
     "status": 1,
     "language": "tr",
-    "authors": [
-      "keyiflerolsun"
-    ],
     "tvTypes": [
       "AsianDrama"
     ],
-    "version": 41,
-    "internalName": "DiziKorea",
-    "description": "En Güncel Kore Dizileri izleme Sitesi",
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/dizikorea.png",
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziKorea.cs3",
-    "name": "DiziKorea"
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "fileHash": "sha256-061fa6d0ab1f0958073a7796e981a6431c7f7ec9939c6595bc5d7b8e4d3fe698",
+    "fileSize": 23254
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
