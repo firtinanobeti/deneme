@@ -84,25 +84,24 @@
   "status": 1
 },
   {
-    "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
-    "fileHash": "sha256-254de2e85175416e339f5849f78c3801f3ce35b33bb222506a7d944aa78e5484",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 100612,
-    "status": 1,
-    "language": "all",
-    "authors": [
-      "redblacker8"
-    ],
-    "tvTypes": [
-      "Live"
-    ],
-    "version": 31,
-    "internalName": "DeporTVProvider",
-    "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DeporTVProvider.cs3",
-    "name": "DeporTVProvider"
-  },
+  "name": "DeporTV",
+  "internalName": "DeporTVProvider",
+  "pluginClassName": "com.safakstream.deportv.DeporTVProviderPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DeporTVProvider.cs3",
+  "fileHash": "sha256-e06e99b6748fef12d52b5f6b6561bbba69a0f210b72b0abd561a1fac4e2e1bcc",
+  "fileSize": "97678",
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "SafakStream DeporTV Canlı Spor ve Etkinlik Yayınları",
+  "tvTypes": [
+    "Live"
+  ],
+  "language": "mx",
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DeporTV.jpg",
+  "status": 1
+},
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
     "fileHash": "sha256-96b96f2d8469f5057e7ae66d279000aab70f5a4ab12c405852aa8832bf8fbd77",
