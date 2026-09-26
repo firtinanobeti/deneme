@@ -72,7 +72,7 @@
   "version": 1,
   "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DailymotionProvider.cs3",
   "fileHash": "sha256-e564e00f23e7b2b4597594d428c590ef7f66b1358e3677b3a3ee6beaff4e0a2d",
-  "fileSize": "12991",
+  "fileSize": 12991,
   "authors": [
     "SafakStream"
   ],
@@ -90,7 +90,7 @@
   "version": 1,
   "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DeporTVProvider.cs3",
   "fileHash": "sha256-e06e99b6748fef12d52b5f6b6561bbba69a0f210b72b0abd561a1fac4e2e1bcc",
-  "fileSize": "97678",
+  "fileSize": 97678,
   "authors": [
     "SafakStream"
   ],
@@ -103,25 +103,24 @@
   "status": 1
 },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
-    "fileHash": "sha256-96b96f2d8469f5057e7ae66d279000aab70f5a4ab12c405852aa8832bf8fbd77",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 22953,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 23,
-    "internalName": "DiziBox",
-    "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziBox.cs3",
-    "name": "DiziBox"
-  },
+  "name": "DiziBox",
+  "internalName": "DiziBox",
+  "pluginClassName": "com.safakstream.dizibox.DiziBoxPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziBox.cs3",
+  "fileHash": "sha256-bdf3001b111820644856cc1c76385230b1759006ed503c6ba42cc679ce75d982",
+  "fileSize": 22919,
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "SafakStream DiziBox İçerik Sağlayıcısı",
+  "tvTypes": [
+    "TvSeries"
+  ],
+  "language": "tr",
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DiziBox.png",
+  "status": 1
+},
   {
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/dizikorea.png",
     "fileHash": "sha256-e437559423e7db3760ad4d25c06816bba5bf8478fbcd3c6bbc6bd481f02bc31f",
