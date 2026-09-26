@@ -71,8 +71,8 @@
   "pluginClassName": "com.safakstream.dailymotion.DailymotionPlugin",
   "version": 1,
   "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DailymotionProvider.cs3",
-  "fileHash": "12991",
-  "fileSize": "sha256-e564e00f23e7b2b4597594d428c590ef7f66b1358e3677b3a3ee6beaff4e0a2d",
+  "fileHash": "sha256-e564e00f23e7b2b4597594d428c590ef7f66b1358e3677b3a3ee6beaff4e0a2d",
+  "fileSize": "12991",
   "authors": [
     "SafakStream"
   ],
