@@ -184,17 +184,19 @@
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/diziyou.png",
   "description": "SafakStream DiziYou Eklentisi"
 },
-  {
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/HDFilmCehennemi.cs3",
-    "status": 1,
-    "version": 8,
+    {
     "name": "HDFilmCehennemi",
     "internalName": "HDFilmCehennemi",
+    "pluginClassName": "com.safakstream.hdfilmcehennemi.HDFilmCehennemiPlugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/HDFilmCehennemi.cs3",
+    "fileHash": "sha256-aa142e15b978e8fc234d1e764013b1ffbf7dffed87992511ee1f19caac795e2c",
+    "fileSize": 86522,
+    "status": 1,
     "authors": [
       "SafakStream"
     ],
     "description": "HDFilmCehennemi dizi, film ve anime sağlayıcısı.",
-    "fileSize": 87097,
     "repositoryUrl": "https://github.com/firtinanobeti/deneme",
     "language": "tr",
     "tvTypes": [
@@ -203,9 +205,8 @@
       "Anime",
       "Documentary"
     ],
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.hdfilmcehennemi.nl&sz=128",
-    "apiVersion": 1,
-    "fileHash": "sha256-31145dcfb0cd91fb9a77edf0cb059e94896883f8ec60ba356a672389c16b5b2a"
+    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/HDFilmCehennemi.jpeg",
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
