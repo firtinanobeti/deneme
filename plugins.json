@@ -163,25 +163,26 @@
     "name": "Dizilla"
   },
   {
-    "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
-    "fileHash": "sha256-344ea5a34af4b34481634608bc28b88e636ddd60d8f09d1fc405f8d195a76963",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 17134,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 25,
-    "internalName": "DiziYou",
-    "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziYou.cs3",
-    "name": "DiziYou"
-  },
+  "name": "DiziYou",
+  "internalName": "DiziYou",
+  "pluginClassName": "com.safakstream.diziyou.DiziYouPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziYou.cs3",
+  "fileHash": "sha256-363aa4b5fafd029d25a52b59ea3a16bbd7eab6ec59863dcd0bf4e356f551545a",
+  "fileSize": 16987,
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "authors": [
+    "SafakStream"
+  ],
+  "status": 1,
+  "language": "tr",
+  "tvTypes": [
+    "TvSeries"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/diziyou.png",
+  "description": "SafakStream DiziYou Eklentisi"
+},
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/HDFilmCehennemi.cs3",
     "status": 1,
