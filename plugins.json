@@ -143,25 +143,26 @@
     "fileSize": 23254
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
-    "fileHash": "sha256-392a60315bd23c1239a4310443fb9fa9cc31ab6ed9ee6d73ecdf1ca9ef8e6136",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 36126,
-    "status": 1,
-    "language": "tr",
-    "authors": [
-      "keyiflerolsun"
-    ],
-    "tvTypes": [
-      "TvSeries"
-    ],
-    "version": 92,
-    "internalName": "Dizilla",
-    "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/Dizilla.cs3",
-    "name": "Dizilla"
-  },
+  "name": "Dizilla",
+  "internalName": "Dizilla",
+  "pluginClassName": "com.safakstream.dizilla.DizillaPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/Dizilla.cs3",
+  "fileHash": "sha256-e98140fa97700a0a98e096e3e5a8f8fac77b54046241af0df56878ffa70bcfc5",
+  "fileSize": 35877,
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "authors": [
+    "SafakStream"
+  ],
+  "status": 1,
+  "language": "tr",
+  "tvTypes": [
+    "TvSeries"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/Dizilla.png",
+  "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz."
+},
   {
   "name": "DiziYou",
   "internalName": "DiziYou",
