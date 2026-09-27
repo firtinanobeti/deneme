@@ -527,25 +527,26 @@
   "fileHash": "sha256-be250125f7ccbcb5ee52650c307998aa5db55805dcfd9807846049d1fb9ae59a"
 },
   {
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DominoTV.cs3",
-    "status": 1,
-    "version": 6,
-    "name": "Domino TV Spor",
-    "internalName": "DominoTV",
-    "authors": [
-      "SafakStream"
-    ],
-    "description": "Domino TV dinamik spor kanalları · SafakStream",
-    "fileSize": 92016,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DominoTV.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-bbf0b48c3ef81218745b0bc618cbdff40c49196bad36678237dba0321bc0141c"
-  },
+  "name": "Domino TV Spor",
+  "internalName": "DominoTV",
+  "pluginClassName": "com.safakstream.dominotv.DominoTVPlugin",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DominoTV.cs3?v=1",
+  "fileHash": "sha256-4d308b94f6c8cb99f242b9f170d20e273cb1f49007d4c2a5859588eef43a8733",
+  "fileSize": 91846,
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "authors": [
+    "SafakStream"
+  ],
+  "status": 1,
+  "language": "tr",
+  "tvTypes": [
+    "Live"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DominoTV.png",
+  "description": "Domino TV dinamik spor kanalları · SafakStream"
+},
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InatTV.cs3",
     "status": 3,
