@@ -909,7 +909,7 @@
   "internalName": "DiziPal",
   "pluginClassName": "com.safakstream.dizipal.DiziPalPlugin",
   "version": 1,
-  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziPal.cs3?v=1",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziPal.cs3",
   "fileHash": "sha256_ba495da4c2d864e1e1cc518bda866200e591e502f79c809271146f9799e0a710",
   "fileSize": 29356,
   "apiVersion": 1,
