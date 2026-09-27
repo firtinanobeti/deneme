@@ -727,25 +727,29 @@
     "fileHash": "sha256-f0727c217c215c14fab3fa77b6ad1607246913fd0d60d81ceb689a0ed9690fd5"
   },
   {
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/FilmModu.cs3",
-    "status": 1,
-    "version": 20,
-    "name": "FilmModu",
-    "internalName": "FilmModu",
-    "authors": [
-      "SafakStream"
-    ],
-    "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-    "fileSize": 16496,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "language": "tr",
-    "tvTypes": [
-      "Movie"
-    ],
-    "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
-    "apiVersion": 1,
-    "fileHash": "sha256-3150a6212f052ad843a8b9e67d65c82b35078f502bb9f5032b1af808d87b862e"
-  },
+  "name": "FilmModu",
+  "internalName": "FilmModu",
+  "pluginClassName": "com.safakstream.filmmodu.entry.FilmModuEntry",
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/FilmModu.cs3",
+  "fileHash": "sha256-30421393494cf7a1c59c720014e34383a33be7e493d04db95134da94741e978d",
+  "fileSize": 108296,
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "authors": [
+    "SafakStream"
+  ],
+  "status": 1,
+  "language": "tr",
+  "tvTypes": [
+    "Movie",
+    "TvSeries",
+    "Anime",
+    "Documentary"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/FilmModu.png",
+  "description": "Film Modu · SafakStream sağlayıcı paketi"
+},
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/SelcukFlix.cs3",
     "status": 1,
