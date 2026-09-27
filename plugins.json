@@ -524,30 +524,6 @@
   "apiVersion": 1,
   "fileHash": "sha256-be250125f7ccbcb5ee52650c307998aa5db55805dcfd9807846049d1fb9ae59a"
 },
-    {
-    "name": "DiziMom",
-    "internalName": "DiziMom",
-    "pluginClassName": "com.safakstream.dizimom.DiziMomPlugin",
-    "description": "Dizi Mom · SafakStream sağlayıcı paketi",
-    "authors": [
-      "SafakStream"
-    ],
-    "version": 1,
-    "apiVersion": 1,
-    "status": 1,
-    "language": "tr",
-    "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "Anime",
-      "Documentary"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DiziMom.png",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziMom.cs3",
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileHash": "sha256-2aada616840a8449f71aa59acf3d7271064196f8535f7c72eec828f92a779aa5",
-    "fileSize": 95389
-  },
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DominoTV.cs3",
     "status": 1,
