@@ -548,25 +548,26 @@
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DominoTV.png",
   "description": "Domino TV dinamik spor kanalları · SafakStream"
 },
-  {
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InatTV.cs3",
-    "status": 3,
-    "version": 13,
-    "name": "Inat TV",
+    {
+    "name": "InatTV",
     "internalName": "InatTV",
+    "pluginClassName": "com.safakstream.inattv.InatPlugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InatTV.cs3",
+    "fileHash": "sha256-8d9abc1f5970c71c9663aee41027d786e6a836458ec43a735bdce64019042f74",
+    "fileSize": 132623,
+    "status": 1,
     "authors": [
       "SafakStream"
     ],
-    "description": "İnat TV dinamik canlı yayınlar · SafakStream",
-    "fileSize": 104008,
+    "description": "Inat TV · SafakStream canlı yayın sağlayıcısı.",
     "repositoryUrl": "https://github.com/firtinanobeti/deneme",
     "language": "tr",
     "tvTypes": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/InatTV.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-aaa9b6f79bb2039858d9e70d6e83a0dcf9ebd441fa95c6e443153d1547ddac4f"
+    "apiVersion": 1
   },
   {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/NetVGold.cs3",
