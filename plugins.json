@@ -554,8 +554,8 @@
     "pluginClassName": "com.safakstream.inattv.InatPlugin",
     "version": 1,
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/InatTV.cs3",
-    "fileHash": "sha256-8d9abc1f5970c71c9663aee41027d786e6a836458ec43a735bdce64019042f74",
-    "fileSize": 132623,
+    "fileHash": "sha256-f64b107fdd54b1840ae99e149bf06a8a7aa3528499c7d0e1eb1c118568aaf412",
+    "fileSize": 132638,
     "status": 1,
     "authors": [
       "SafakStream"
