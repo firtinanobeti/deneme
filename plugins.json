@@ -208,26 +208,27 @@
     "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/HDFilmCehennemi.jpeg",
     "apiVersion": 1
   },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=%size%",
-    "fileHash": "sha256-f497e5f0e02f957c2a05e9cb1128e8d8b7205c70fe7a2b1bde8bbdbae2f5ded8",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "fileSize": 27316,
+    {
+    "name": "KultFilmler",
+    "internalName": "KultFilmler",
+    "pluginClassName": "com.safakstream.kultfilmler.KultFilmlerPlugin",
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/KultFilmler.cs3?v=1",
+    "fileHash": "sha256-539cefc56daff09887bbf5b742490c84ccb4ce692b9ae7c45582cf4fa36f013f",
+    "fileSize": 27130,
     "status": 1,
-    "language": "tr",
     "authors": [
-      "keyiflerolsun"
+      "SafakStream"
     ],
+    "description": "Kült Filmler · SafakStream film sağlayıcısı.",
+    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+    "language": "tr",
     "tvTypes": [
       "Movie",
       "TvSeries"
     ],
-    "version": 16,
-    "internalName": "KultFilmler",
-    "description": "Kült Filmler özenle en iyi filmleri derler ve iyi bir altyazılı film izleme deneyimi sunmayı amaçlar",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/KultFilmler.cs3",
-    "name": "KultFilmler"
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kultfilmler.net&sz=128",
+    "apiVersion": 1
   },
   {
     "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
