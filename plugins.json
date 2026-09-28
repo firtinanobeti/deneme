@@ -527,24 +527,6 @@
     "apiVersion": 1
   },
   {
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/PapazSports.cs3",
-    "status": 1,
-    "version": 5,
-    "name": "Papaz Sports",
-    "internalName": "PapazSports",
-    "authors": [
-      "SafakStream"
-    ],
-    "description": "PapazSports canlı kanal ve maç listesi, artan alan adı keşfi ve güncelleme ekranı.",
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "language": "tr",
-    "tvTypes": [
-      "Live"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/PapazSports.png",
-    "apiVersion": 1
-  },
-  {
     "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/TRGoals.cs3",
     "status": 1,
     "version": 5,
