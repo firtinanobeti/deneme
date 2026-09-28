@@ -526,25 +526,25 @@
     "apiVersion": 1
   },
   {
-    "name": "PlayFy",
-    "internalName": "PlayFyProvider",
-    "version": 12,
-    "description": "Canlı spor yayınları ve TV kanalları (SafakStream Mod)",
-    "authors": [
-      "SafakStream"
-    ],
-    "repositoryUrl": "https://github.com/firtinanobeti/deneme",
-    "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/PlayFyProvider.cs3",
-    "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/playfy-tv-4.webp",
-    "language": "tr",
-    "status": 1,
-    "tvTypes": [
-      "Live"
-    ],
-    "apiVersion": 1,
-    "fileSize": 102425,
-    "fileHash": "sha256-028f02630e33637947fa052ab921f4023ebc860371fe077226ee964b6365f162"
-  },
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/playfy-tv-4.webp",
+  "fileHash": "sha256-1900094e3fe69443704b12d10fe8b5ae181a8231b3f90ec022301387680374ea",
+  "apiVersion": 1,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "fileSize": 101765,
+  "status": 1,
+  "language": "en",
+  "authors": [
+    "SafakStream"
+  ],
+  "tvTypes": [
+    "Live"
+  ],
+  "version": 1,
+  "internalName": "PlayFyProvider",
+  "description": "Watch Live sports and TV channels via PlayFy",
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/PlayFyProvider.cs3",
+  "name": "PlayFyProvider"
+},
   {
     "name": "PlayZTV",
     "internalName": "PlayZTVProvider",
