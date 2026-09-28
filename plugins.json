@@ -868,5 +868,25 @@
   ],
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DiziPal.png",
   "description": "en yeni dizileri güvenli ve hızlı şekilde sunar."
+  },
+  {
+  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/NetVGold.cs3",
+  "status": 3,
+  "version": 1,
+  "name": "NETV Gold",
+  "internalName": "NetVGold",
+  "authors": [
+    "SafakStream"
+  ],
+  "description": "NETV Gold canlı spor kanalları",
+  "fileSize": 169923,
+  "repositoryUrl": "https://github.com/firtinanobeti/deneme",
+  "language": "tr",
+  "tvTypes": [
+    "Live"
+  ],
+  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/NetVGold.png",
+  "apiVersion": 1,
+  "fileHash": "sha256-7f22255649eb37b0304b9e47de6bb91a0d17856e9e11dc13c924544d3e3a72df"
   }
 ]
