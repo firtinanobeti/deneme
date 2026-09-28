@@ -102,25 +102,6 @@
   "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DeporTV.jpg",
   "status": 1
 },
-  {
-  "name": "DiziBox",
-  "internalName": "DiziBox",
-  "pluginClassName": "com.safakstream.dizibox.DiziBoxPlugin",
-  "version": 1,
-  "url": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/DiziBox.cs3",
-  "fileHash": "sha256-bdf3001b111820644856cc1c76385230b1759006ed503c6ba42cc679ce75d982",
-  "fileSize": 22919,
-  "authors": [
-    "SafakStream"
-  ],
-  "description": "SafakStream DiziBox İçerik Sağlayıcısı",
-  "tvTypes": [
-    "TvSeries"
-  ],
-  "language": "tr",
-  "iconUrl": "https://raw.githubusercontent.com/firtinanobeti/deneme/builds/icons/DiziBox.png",
-  "status": 1
-},
     {
     "name": "DiziKorea",
     "internalName": "DiziKorea",
